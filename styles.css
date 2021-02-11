@@ -312,7 +312,7 @@ nav .icon-burger .line{
             height: auto;
         }
         .s-heading{
-            margin: 15px;
+            margin: 0 10px 10px 10px;
         }
         .s-box{
             flex-grow: 1;
@@ -341,7 +341,7 @@ nav .icon-burger .line{
 .clients-area h3{
     text-align: center;
     padding:0 0 70px;
-    font-weight: bold;
+    font-weight: 400;
     text-transform: uppercase;
     font-size: 70px;
 }
@@ -407,7 +407,7 @@ footer{
 }
 .box h2{
     font-size: 1.125rem;
-    font-weight: 600;
+    font-weight: 500;
     text-transform: uppercase;
 }
 .box .content{
@@ -445,14 +445,14 @@ footer{
     background:#1a1a1a;
     line-height: 40px;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     transition: .3s;
 }
 .left .content .social i span:hover{
     background: #4a90e2;
 }
 .center .content .fa{
-    font-size: 1.4375rem;
+    font-size: 1.1375rem;
     background:#1a1a1a;
     height: 45px;
     width: 45px;
@@ -467,7 +467,6 @@ footer{
 }
 .center .content .text{
     font-size: 1rem;
-    font-weight: 500;
     padding-left: 10px;
 }
 .center .content .phone{
@@ -492,6 +491,7 @@ footer{
 .right form input:focus,
 .right form textarea:focus{
     outline-color: #3498db;
+    color: white;
 }
 .right form input{
     height: 35px;
@@ -507,7 +507,7 @@ footer{
     border:none;
     outline: none;
     background: #4a90e2;
-    font-size: 1.0625rem;
+    font-size: 1rem;
     font-weight: 500;
     cursor: pointer;
     transition: .3s,
@@ -517,7 +517,7 @@ footer{
 }
 .bottom center{
     padding: 5px;
-    font-size: 0.9375rem;
+    font-size: 0.7375rem;
     background: #151515;
 }
 .bottom center span{
